@@ -74,12 +74,3 @@ echo $NEXT_PUBLIC_SUPABASE_URL
 echo $NEXT_PUBLIC_SUPABASE_ANON_KEY
 ```
 
-## 📋 Required Environment Variables for Deployment
-
-Make sure these are set in your deployment platform:
-
-```
-NEXT_PUBLIC_SUPABASE_URL=https://yhrelechgepwilyehpjj.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlocmVsZWNoZ2Vwd2lseWVocGpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjU5MDQ0MjIsImV4cCI6MjA4MTQ4MDQyMn0.Gub1xDm1mlg_ebd5ShjqZ9_z-ASfHiGJctsUTP7uqjA
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlocmVsZWNoZ2Vwd2lseWVocGpqIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NTkwNDQyMiwiZXhwIjoyMDgxNDgwNDIyfQ.w8UMcSgSsOuvY-myIdmXItmtiCnuG4EMJJin6aNL8RY
-```
